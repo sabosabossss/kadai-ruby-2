@@ -18,3 +18,4 @@ num_max = 100
   puts fizzbuzz(num)
 end
 
+
